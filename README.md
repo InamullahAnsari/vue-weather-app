@@ -22,3 +22,6 @@ yarn lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+### you can directly visit the application via the following link
+https://5e9832001db36c124e4dc791--inam-weather-app.netlify.app/
